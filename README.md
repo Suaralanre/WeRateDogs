@@ -12,7 +12,7 @@
 ## DATA GATHERING
 
     The archived twitter data was provided by WeRateDogs in a csv format for use by Udacity students for the purpose of this project. 
-    The second data - Image prediction data was downloaded programmatically using the python requests module and saved in a single file in a tsv format. 
+    The second data - Image prediction data was scraped using the python beautifulsoup library and saved in a single file in a tsv format. 
     The third data - retweet count and favourite count was downloaded from Twitter using Twitter's tweepy API to query the data. 
     The resulting data from the twitter query was saved in a json format.
     
